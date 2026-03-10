@@ -6,19 +6,19 @@
 .header{
   flex:20%;
   aspect-ratio: 6/1;
-  background-color: Firebrick3;
+  background-color:#FFCCFF;
   background: url("images/хелоуу кити.jpg") center;
 }
 .menu{
   flex:5%;
-  background-color: LightSalmon1;
+  background-color: #FF66CC;
   display: flex;
   align-items: center;
   color: black
 }
 .menu a{
   padding: 15px 20px;
-  color: Firebrick;
+  color: #FFCCFF;
 }
 .menu a:hover{
   background-color: Brown;
@@ -26,7 +26,7 @@
 }
 .content{
   flex:70%;
-  background-color: PapayaWhip;
+  background-color: #FF66CC;
 }
 .content iframe{
   flex:1;
@@ -36,7 +36,7 @@
 }
 .footer{
   flex:5%;
-  background-color: Firebrick;
+  background-color: #FFCCFF;
 }
 h1 {
   color: blue;
@@ -44,14 +44,14 @@ h1 {
   vertical-align: top;
 }
 .tuade {
-  color: #ff0000;
+  color: #FFCCFF;
   font-family: "Times New Roman";
   margin-top:20pt;
   font-size:20pt;
   font-weight: bold;
 }
 .noidung {
-  color: #000005;
+  color: #FF66CC;
   font-family: "Times New Roman";
   margin-top:6pt;
   font-style:normal;
