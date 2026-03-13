@@ -4,14 +4,12 @@
   height:100vh;
 }
 .header{
-  flex:20%;
-  aspect-ratio: 6/1;
   background-color:#FF66CC;
-  background: url("images/хелоуу кити.jpg") center;
+  background: url("images/хелоуу кити.jpg") center/cover no-repeat;
 }
 .menu{
   flex:3%;
-  background-color: LightSalmon1;
+  background-color: LightSalmon;
   display: flex;
   align-items: center;
   color: black
@@ -40,7 +38,7 @@
 }
 h1 {
   color: blue;
-  text-margin:30pt;
+  margin:30pt;
   vertical-align: top;
 }
 .tuade {
