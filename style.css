@@ -4,19 +4,21 @@
   height:100vh;
 }
 .header{
-  background-color:#FF66CC;
-  background: url("images/хелоуу кити.jpg") center/cover no-repeat;
+  flex:20%;
+  aspect-ratio: 6/1;
+  background-color: Firebrick3;
+  background: url("Images/images/tải xuống (4).jpg") center;
 }
 .menu{
-  flex:3%;
-  background-color: LightSalmon;
+  flex:5%;
+  background-color: LightSalmon1;
   display: flex;
   align-items: center;
   color: black
 }
 .menu a{
   padding: 15px 20px;
-  color: #FF66CC;
+  color: Firebrick;
 }
 .menu a:hover{
   background-color: Brown;
@@ -34,11 +36,11 @@
 }
 .footer{
   flex:5%;
-  background-color: #FF1493;
+  background-color: Firebrick;
 }
 h1 {
   color: blue;
-  margin:30pt;
+  text-margin:30pt;
   vertical-align: top;
 }
 .tuade {
@@ -55,3 +57,4 @@ h1 {
   font-style:normal;
   font-size:15pt;
 }
+  
